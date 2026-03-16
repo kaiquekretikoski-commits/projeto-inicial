@@ -3,7 +3,7 @@
 <h2> 🥴sobre </h2> -->
 <P>projeto utilizado nos cursos de logica de programação da alura</P>
 
-##🥺 tecnologia
+## 🥺 tecnologia
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
